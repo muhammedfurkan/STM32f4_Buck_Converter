@@ -1,0 +1,13 @@
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-F_Cu.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-In1_Cu.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-In2_Cu.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-B_Cu.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-F_Paste.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-B_Paste.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-F_Silkscreen.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-B_Silkscreen.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-F_Mask.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-B_Mask.gbr'.
+Plotted to 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\KULLANICILAR\Desktop\Yazılım & Elektronik\3- Elektronik Tasarımlar\1_KiCAD Tasarımlar\STM32F4_BuckConverter\STM32F4_Buck_Converter\STM32F4_Buck_Converter-job.gbrjob'.
+Info: Done.
