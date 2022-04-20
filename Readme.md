@@ -6,12 +6,12 @@
 
 # Schematic Preview Image
 
-![Schematic Design Preview Image](.\img\1.png "STM32F4-Buck Converter Schematic")
+![Schematic Design Preview Image](./img/1.png "STM32F4-Buck Converter Schematic")
 
 
 # PCB Design Preview Image
 
-![PCB Design Preview Image](.\img\2.png "STM32F4-Buck Converter PCB Design")
+![PCB Design Preview Image](./img/2.png "STM32F4-Buck Converter PCB Design")
 
 
 # Info
